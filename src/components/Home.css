@@ -1,0 +1,20 @@
+.search-btn-col {
+    margin-top:auto;
+}
+
+.jumbo-img{
+    height: auto;
+    width: 100%;
+    opacity: 0.8;
+    z-index: -2;
+}
+
+.jumbo {
+    padding: 0;
+    color: #282525;
+}
+
+.jumbo-text {
+    position: absolute;
+    z-index: 1;
+}
